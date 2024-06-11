@@ -5,7 +5,7 @@ https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=WELCOME+TO+CYBER+RASTHA+MD+GITHUB)
 
- <img src="https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"  width="700px">
+ <img src="https://telegra.ph/file/969853a9b9f317b4d7438.jpg"  width="700px">
 </a>
 <hr>
 
